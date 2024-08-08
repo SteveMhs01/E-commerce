@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    thimok
+    thimol
 </body>
 </html>
